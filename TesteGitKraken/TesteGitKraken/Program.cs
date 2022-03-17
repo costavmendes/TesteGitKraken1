@@ -15,5 +15,11 @@ namespace TesteGitKraken
             int result = numero + 5;
             return result;
         }
+
+        static int Subtracao (int numero)
+        {
+            int resultado = numero - 5;
+            return resultado;
+        }
     }
 }
